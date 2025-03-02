@@ -14,7 +14,7 @@ I am currently studying web development at Business Academy Aarhus.
 
 <br/>
 
-## 💻 Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-474747?style=for-the-badge&logo=javascript&logoColor=yellow)](https://devdocs.io/javascript/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -33,7 +33,7 @@ I am currently studying web development at Business Academy Aarhus.
 
 <br/>
 
-## 📊 Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![TobiasRW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasRW&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <br/>
