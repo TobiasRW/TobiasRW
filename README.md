@@ -40,6 +40,7 @@ I am currently studying web development at Business Academy Aarhus.
 
 ## 🚀 **Featured Projects**
 📌 **[Portfolio Website](https://portfolio.tobiaswolmar.dk/)** – Built with **Next.js, TypeScript & Tailwind CSS**  
+📌 **[Fit App](https://fit-app-lilac.vercel.app/)** – Built with **Next.js, TypeScript, Supabase & Tailwind CSS**  
 📌 **[Color Palette Generator](https://color-palette-chi-cyan.vercel.app/)** – Built with **Next.js, TypeScript, Tailwind CSS & MongoDB**, and using **Mistral LLM API**  
 📌 **[Book Buddy - Reading Tracker](https://book-app-gamma-rose.vercel.app/)** – Built with **Next.js, MySQL & Tailwind CSS**, using **Google Books API**  
 📌 **[Lendr](https://lendr-nine.vercel.app/)** – Built with **Next.js, PHP, MySQL Tailwind CSS**  
