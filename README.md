@@ -1,16 +1,15 @@
 <h1 align="center">Hey there! 👋🏻 I'm Tobias Wolmar</h1>
 <br/>
 
-I am a web developer with a passion for frontend development. I enjoy working with both frontend and backend development, and I always strive to build efficient, user-friendly solutions.
+I am a Frontend Engineer working primarily with React, Next.js and TypeScript.
 
-I am currently studying web development at Business Academy Aarhus.
+Read more about me on my **[Portfolio Website](https://portfolio.tobiaswolmar.dk/)** – Built with **Next.js, TypeScript & Tailwind CSS**  
 
 <br/>
 
-## 🌐 My Socials
+## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-wolmar-87991224a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiasrw98@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-EDECEC?style=for-the-badge&logo=google-chrome&logoColor=161616)](https://portfolio.tobiaswolmar.dk/)
 
 <br/>
 
@@ -33,17 +32,10 @@ I am currently studying web development at Business Academy Aarhus.
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![TobiasRW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasRW&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-<br/>
 
 ## 🚀 **Featured Projects**
 📌 **[Portfolio Website](https://portfolio.tobiaswolmar.dk/)** – Built with **Next.js, TypeScript & Tailwind CSS**  
-📌 **[Fit App](https://fit-app-lilac.vercel.app/)** – Built with **Next.js, TypeScript, Supabase & Tailwind CSS**  
-📌 **[Color Palette Generator](https://color-palette-chi-cyan.vercel.app/)** – Built with **Next.js, TypeScript, Tailwind CSS & MongoDB**, and using **Mistral LLM API**  
-📌 **[Book Buddy - Reading Tracker](https://book-app-gamma-rose.vercel.app/)** – Built with **Next.js, MySQL & Tailwind CSS**, using **Google Books API**  
-📌 **[Lendr](https://lendr-nine.vercel.app/)** – Built with **Next.js, PHP, MySQL Tailwind CSS**  
+
 
 
 <!--
