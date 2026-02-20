@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋🏻 I'm Tobias Wolmar</h1>
+<h1>Hey there! 👋🏻 I'm Tobias Wolmar</h1>
 <br/>
 
 I am a Frontend Engineer working primarily with React, Next.js and TypeScript.
@@ -7,13 +7,13 @@ Read more about me on my **[Portfolio Website](https://portfolio.tobiaswolmar.dk
 
 <br/>
 
-## 🌐 Contact
+## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-wolmar-87991224a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiasrw98@gmail.com)
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+## Tech Stack
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-474747?style=for-the-badge&logo=javascript&logoColor=yellow)](https://devdocs.io/javascript/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -32,9 +32,6 @@ Read more about me on my **[Portfolio Website](https://portfolio.tobiaswolmar.dk
 
 <br/>
 
-
-## 🚀 **Featured Projects**
-📌 **[Portfolio Website](https://portfolio.tobiaswolmar.dk/)** – Built with **Next.js, TypeScript & Tailwind CSS**  
 
 
 
